@@ -1,5 +1,9 @@
 # note-app
 
+## Integrantes: 
+-María Belen Couoh Chan
+-Leandro Angel Dzib Nauat
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
